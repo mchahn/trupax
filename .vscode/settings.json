@@ -1,0 +1,9 @@
+{
+    "java.configuration.maven.userSettings": "./.mvn/local-settings.xml",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.test.config": {
+        "env": {
+            "DE_ORG_MCHAHN_BASELIB_TEST_QUICK": "1",
+        }
+    }
+}

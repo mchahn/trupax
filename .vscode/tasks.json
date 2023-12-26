@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "mvn package",
+			"type": "shell",
+			"command": "mvn package -Dmaven.test.skip=true",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

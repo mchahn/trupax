@@ -1,0 +1,6 @@
+.deps
+.DS_Store
+.settings
+bin
+dist.sh
+target
